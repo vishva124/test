@@ -1,0 +1,32 @@
+{
+  "name": "jadu",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-generator": "^4.16.1",
+    "express-validator": "^6.14.2",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  },
+  "description": "demo project",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/vishva124/NodeJS.git)"
+  },
+  "keywords": [
+    "vish"
+  ],
+  "author": "vishva",
+  "license": "ISC"
+}
